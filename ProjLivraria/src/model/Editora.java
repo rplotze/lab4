@@ -1,5 +1,9 @@
 package model;
 
+
+//
+// MODELO DE DADOS
+//
 public class Editora {
     
     private int id;
